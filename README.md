@@ -27,7 +27,7 @@ Make sure you have [Python](https://www.python.org/) installed. Then, follow the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dianjeruto/task-manager-CLI-app.git
+   git clone https://github.com/Dianjeruto/Task-manager-CLI-app.git
 2.change the project directory   
 cd task-manager-cli-app
 3.Install dependencies
