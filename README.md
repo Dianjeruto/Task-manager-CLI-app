@@ -1,7 +1,5 @@
 # Task Manager CLI App
 
-![Task Manager Logo](path/to/your/logo.png)
-
 A command-line interface (CLI) application for managing your tasks efficiently.
 
 ## Features
@@ -37,6 +35,15 @@ cd task-manager-cli-app
 a)pipenv install
 
 b)pipenv shell
+
+ Usage
+ Run the app with the following command;
+ Python3 manage.py
+
+license
+MIT LICENSE
+author
+DIAN JERUTO
 
    
 
