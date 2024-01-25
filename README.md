@@ -1,13 +1,6 @@
 # Task Manager CLI App
 
-A command-line interface (CLI) application for managing your tasks efficiently.
-
-## Features
-
-- Add, view, edit, and delete tasks from the command line.
-- Organize tasks by categories or projects.
-- Mark tasks as completed.
-- Simple and intuitive commands.
+A command-line interface (CLI) application for managing your tasks efficient
 
 ## Table of Contents
 
