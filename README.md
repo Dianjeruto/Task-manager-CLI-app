@@ -30,9 +30,13 @@ Make sure you have [Python](https://www.python.org/) installed. Then, follow the
    git clone https://github.com/Dianjeruto/Task-manager-CLI-app.git
 2.change the project directory   
 cd task-manager-cli-app
+
+
 3.Install dependencies
-pipenv install
-pipenv shell
+
+a)pipenv install
+
+b)pipenv shell
 
    
 
